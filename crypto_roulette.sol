@@ -15,8 +15,10 @@ contract CryptoRoulette {
 
     uint256 private secretNumber;
     uint256 public lastPlayed;
+    unit256 public test;
     uint256 public betPrice = 0.1 ether;
     address public ownerAddr;
+    
 
     struct Game {
         address player;
