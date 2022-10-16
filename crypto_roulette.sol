@@ -5,7 +5,6 @@
 pragma solidity ^0.4.19;
 
 // CryptoRoulette
-//
 // Guess the number secretly stored in the blockchain and win the whole contract balance!
 // A new number is randomly chosen after each try.
 // https://www.reddit.com/r/ethdev/comments/7wp363/how_does_this_honeypot_work_it_seems_like_a/
